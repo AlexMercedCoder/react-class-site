@@ -1,12 +1,13 @@
 import { Outlet, useLoaderData, Link } from "react-router-dom";
 import Navigation from "./components/header";
+import { AppContainer } from "./styled-components/containers";
 
 function App() {
   const units = useLoaderData();
   return (
     <div className="App">
       <Navigation />
-      <div>
+      <AppContainer>
         {units.map((item, index) => {
           return (
             <Link to={`/${index}`} key={item.name}>
@@ -14,7 +15,7 @@ function App() {
             </Link>
           );
         })}
-      </div>
+      </AppContainer>
       <Outlet />
     </div>
   );

@@ -33,7 +33,8 @@ export const NavLink = styled.div`
 
 // APP
 
-export const UnitContainer = styled.div`
+export const AppContainer = styled.div`
 display: flex;
-background-color: gray
+background-color: ${theme.app.bg};
+color: ${theme.app.fg};
 `
