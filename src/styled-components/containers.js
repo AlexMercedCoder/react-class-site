@@ -13,6 +13,8 @@ export const NavContainer = styled.div`
 
   @media(max-width: 500px){
       flex-direction: column;
+      margin: auto;
+
   }
 `;
 
@@ -28,7 +30,7 @@ export const NavLinks = styled.div`
 
   @media (max-width: 500px) {
     font-size: 0.8em;
-    width: 300px;
+    max-width: 280px;
     margin: auto;
   }
 `;
@@ -57,6 +59,12 @@ export const AppContainer = styled.div`
   font-size: 1.3em;
   flex-wrap: wrap;
   justify-content: space-around;
+
+  @media (max-width: 500px) {
+    width: 100%;
+    font-size: .9em;
+    margin: auto;
+  }
 `;
 
 export const AppLink = styled.div`
@@ -82,6 +90,12 @@ text-align: center;
 width: 90%;
 border-radius: 8px;
 margin: 8px auto;
+
+@media (max-width: 500px) {
+    max-width: 280px;
+    width: 100%;
+    font-size: .9em;
+  }
 `
 
 export const UnitContainer = styled.div`
@@ -118,6 +132,12 @@ background-color: ${theme.week.bg};
 color: ${theme.week.fg};
 padding: 10px;
 text-align: center;
+
+@media (max-width: 500px) {
+    max-width: 280px;
+    width: 100%;
+    font-size: .9em;
+  }
 `
 
 export const WeekContainer = styled.div`
@@ -158,6 +178,12 @@ width: 60%;
 margin: auto;
 border: ${theme.day.border};
 text-align: center;
+
+@media (max-width: 500px) {
+    max-width: 280px;
+    width: 100%;
+    font-size: .9em;
+  }
 `
 
 export const DayContainer = styled.div`
@@ -173,6 +199,11 @@ export const DayContainer = styled.div`
   border-radius: 50px;
   border: ${theme.day.border};
   justify-content: space-around;
+
+  @media (max-width: 500px) {
+    font-size: 0.6em;
+    width: 100%
+  }
 `;
 
 export const DayLink = styled.div`

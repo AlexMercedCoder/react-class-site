@@ -1,0 +1,26 @@
+{
+  "units": [
+    {
+      "name": "name",
+      "description": "description",
+      "weeks": [
+        {
+          "name": "name",
+          "description": "description",
+          "days": [
+            {
+              "name": "name",
+              "description": "description",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
