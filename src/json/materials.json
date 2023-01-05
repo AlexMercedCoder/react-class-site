@@ -291,16 +291,10 @@
             {
               "name": "Project Week",
               "description": "Projects all week, Presentations on Friday at Noon",
-              "days": [
+              "links": [
                 {
-                  "name": "Project Week",
-                  "description": "Projects all week, Presentations on Friday at Noon",
-                  "links": [
-                    {
-                      "name": "Project Description",
-                      "url": "https://git.generalassemb.ly/AlexMerced/lectures_labs_projects/blob/main/projects/project1.md"
-                    }
-                  ]
+                  "name": "Project Description",
+                  "url": "https://git.generalassemb.ly/AlexMerced/lectures_labs_projects/blob/main/projects/project1.md"
                 }
               ]
             }
