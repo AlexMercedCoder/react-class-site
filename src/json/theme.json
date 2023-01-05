@@ -1,0 +1,11 @@
+{
+  "navigation": {
+    "bg": "#222222",
+    "fg": "white",
+    "highlight": "#e40229"
+  },
+  "app": {
+    "bg": "gray",
+    "fg": "white"
+  }
+}

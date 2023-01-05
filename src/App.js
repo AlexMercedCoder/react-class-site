@@ -1,23 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import { Outlet, useLoaderData, Link } from "react-router-dom";
+import Navigation from "./components/header";
 
 function App() {
+  const units = useLoaderData();
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navigation />
+      <div>
+        {units.map((item, index) => {
+          return (
+            <Link to={`/${index}`} key={item.name}>
+              <div>{item.name}</div>
+            </Link>
+          );
+        })}
+      </div>
+      <Outlet />
     </div>
   );
 }

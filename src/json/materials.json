@@ -1,0 +1,374 @@
+{
+  "units": [
+    {
+      "name": "Unit 1",
+      "description": "lorem ipsum",
+      "weeks": [
+        {
+          "name": "Week 1",
+          "description": "lorem ipsum",
+          "days": [
+            {
+              "name": "Day 1",
+              "description": "lorem ipsum",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Lab - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            },
+            {
+              "name": "Day 2",
+              "description": "lorem ipsum",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Lab - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Week 2",
+          "description": "lorem ipsum",
+          "days": [
+            {
+              "name": "Day 1",
+              "description": "lorem ipsum",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Lab - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            },
+            {
+              "name": "Day 2",
+              "description": "lorem ipsum",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Lab - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unit 2",
+      "description": "lorem ipsum",
+      "weeks": [
+        {
+          "name": "Week 1",
+          "description": "lorem ipsum",
+          "days": [
+            {
+              "name": "Day 1",
+              "description": "lorem ipsum",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Lab - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            },
+            {
+              "name": "Day 2",
+              "description": "lorem ipsum",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Lab - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Week 2",
+          "description": "lorem ipsum",
+          "days": [
+            {
+              "name": "Day 1",
+              "description": "lorem ipsum",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Lab - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            },
+            {
+              "name": "Day 2",
+              "description": "lorem ipsum",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Lab - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unit 3",
+      "description": "lorem ipsum",
+      "weeks": [
+        {
+          "name": "Week 1",
+          "description": "lorem ipsum",
+          "days": [
+            {
+              "name": "Day 1",
+              "description": "lorem ipsum",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Lab - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            },
+            {
+              "name": "Day 2",
+              "description": "lorem ipsum",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Lab - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Week 2",
+          "description": "lorem ipsum",
+          "days": [
+            {
+              "name": "Day 1",
+              "description": "lorem ipsum",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Lab - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            },
+            {
+              "name": "Day 2",
+              "description": "lorem ipsum",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Lab - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unit 4",
+      "description": "lorem ipsum",
+      "weeks": [
+        {
+          "name": "Week 1",
+          "description": "lorem ipsum",
+          "days": [
+            {
+              "name": "Day 1",
+              "description": "lorem ipsum",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Lab - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            },
+            {
+              "name": "Day 2",
+              "description": "lorem ipsum",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Lab - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Week 2",
+          "description": "lorem ipsum",
+          "days": [
+            {
+              "name": "Day 1",
+              "description": "lorem ipsum",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Lab - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            },
+            {
+              "name": "Day 2",
+              "description": "lorem ipsum",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Lab - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Capstone",
+      "description": "lorem ipsum",
+      "weeks": [
+        {
+          "name": "Week 1",
+          "description": "lorem ipsum",
+          "days": [
+            {
+              "name": "Day 1",
+              "description": "lorem ipsum",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Lab - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            },
+            {
+              "name": "Day 2",
+              "description": "lorem ipsum",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Lab - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Week 2",
+          "description": "lorem ipsum",
+          "days": [
+            {
+              "name": "Day 1",
+              "description": "lorem ipsum",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Lab - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            },
+            {
+              "name": "Day 2",
+              "description": "lorem ipsum",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Lab - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

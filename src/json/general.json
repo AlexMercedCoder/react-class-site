@@ -1,0 +1,13 @@
+{
+  "navigation": [
+    {
+      "text": "Handbook",
+      "url": "https://git.generalassemb.ly/AlexMerced/orientation/blob/master/handbook.md"
+    },
+    {
+      "text": "Bonus/Cheatsheets",
+      "url": "https://git.generalassemb.ly/AlexMerced/orientation/blob/master/cheatsheet/readme.md"
+    }
+  ],
+  "title": "SEIR Goat"
+}
