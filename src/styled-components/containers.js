@@ -37,4 +37,7 @@ export const AppContainer = styled.div`
 display: flex;
 background-color: ${theme.app.bg};
 color: ${theme.app.fg};
+padding: 10px;
+font-size: 1.3em;
+justify-content: space-around;
 `
