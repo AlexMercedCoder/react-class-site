@@ -41,3 +41,12 @@ padding: 10px;
 font-size: 1.3em;
 justify-content: space-around;
 `
+
+export const AppLink = styled.div`
+  color: ${theme.navigation.fg};
+  margin: 10px;
+
+  &:hover {
+    color: ${theme.navigation.highlight};
+  }
+`;
