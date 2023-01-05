@@ -1,25 +1,29 @@
 import { useLoaderData, Outlet, Link } from "react-router-dom";
-
+import {
+  WeekWrapper,
+  WeekContainer,
+  WeekLink,
+} from "../styled-components/containers";
 export default function Weeks() {
   const week = useLoaderData();
 
   return (
-    <div>
+    <WeekWrapper>
       <h1>{week.name}</h1>
       <p>{week.description}</p>
-      <div>
+      <WeekContainer>
         {week.days.map((item, index) => {
           return (
             <Link
               to={`/${week.unit_index}/${week.week_index}/${index}`}
               key={item.name}
             >
-              <div>{item.name}</div>
+              <WeekLink>{item.name}</WeekLink>
             </Link>
           );
         })}
-      </div>
+      </WeekContainer>
       <Outlet />
-    </div>
+    </WeekWrapper>
   );
 }

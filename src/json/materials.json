@@ -1,72 +1,306 @@
 {
   "units": [
     {
-      "name": "Unit 1",
-      "description": "lorem ipsum",
+      "name": "Unit 1 - Frontend Fundamentals",
+      "description": "The purpose of this unit is to build your web development fundamentals of HTML, CSS and Javscript (especailly Javascript). You will be building basic web pages, learning how to manipulate the DOM with javascript to make web pages interactive and how to use ajax to communicate with other applications around the web.",
       "weeks": [
         {
-          "name": "Week 1",
-          "description": "lorem ipsum",
+          "name": "Week 1 - The Journey Begins",
+          "description": "Getting things started. This week we will focus on getting knowledge of the basic tools every developer uses everyday like, Git, Terminal, and Visual Studio Code.",
           "days": [
             {
               "name": "Day 1",
-              "description": "lorem ipsum",
+              "description": "First Day - Setting Expectations",
               "links": [
                 {
-                  "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                  "name": "Introduction to GA",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_01/instructor_notes/1.%20CULTURE.md"
                 },
                 {
-                  "name": "Lab - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                  "name": "How to Succeed in a Bootcamp",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_01/instructor_notes/2.%20SUCCESS.md"
+                },
+                {
+                  "name": "Lecture -How to Navigate the Terminal",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_01/instructor_notes/3.%20TERMINAL_NAVIGATION.md"
+                },
+                {
+                  "name": "Lecture -Intro to Javascript",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_01/instructor_notes/5.%20INTRO_TO_JAVASCRIPT.md"
+                },
+                {
+                  "name": "Lab - Just the Beginning",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_01/instructor_notes/5.%20INTRO_TO_JAVASCRIPT.md"
+                },
+                {
+                  "name": "Homework - The First",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_01/instructor_notes/5.%20INTRO_TO_JAVASCRIPT.md"
                 }
               ]
             },
             {
               "name": "Day 2",
-              "description": "lorem ipsum",
+              "description": "Learning about Git and more Javascript",
               "links": [
                 {
-                  "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                  "name": "Lecture - Git: Keeping Track of Files",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_02/instructor_notes/1.%20Git.md"
                 },
                 {
-                  "name": "Lab - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                  "name": "Lecture - An Introduction to CSS",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_02/instructor_notes/2_CSS.md"
+                },
+                {
+                  "name": "Lab - Git and Github",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_02/student_labs/git_and_github.md"
+                },
+                {
+                  "name": "Lab - Booleans and Loops",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_02/student_labs/booleans_and_loops.md"
+                },
+                {
+                  "name": "Homework - Fake Resume and Github Practice",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_02/homework"
+                }
+              ]
+            },
+            {
+              "name": "Day 3",
+              "description": "Learning about Git and more Javascript",
+              "links": [
+                {
+                  "name": "Morning Exercise - Git Review",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_03/morning_exercise"
+                },
+                {
+                  "name": "Lectures - Introduction to Javascript",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_03/instructor_notes"
+                },
+                {
+                  "name": "Lab - Loops and Conditionals",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_03/student_labs/morning_lab.md"
+                },
+                {
+                  "name": "Lab - Arrays and Conditionals",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_02/student_labs/booleans_and_loops.md"
+                },
+                {
+                  "name": "Homework - Arrays, Loops and Conditionals",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_03/homework"
+                }
+              ]
+            },
+            {
+              "name": "Day 4",
+              "description": "Learning about Javascript Functions and Scope",
+              "links": [
+                {
+                  "name": "Lecture - Javascript Functions",
+                  "url": "https://git.generalassemb.ly/AlexMerced/js-functions/blob/master/functions.md"
+                },
+                {
+                  "name": "Lecture - Javascript Scope",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_04/instructor_notes/2.%20SCOPE.md"
+                },
+                {
+                  "name": "Lab - Function Problem Solving",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_04/student_labs/morning_lab.md"
+                },
+                {
+                  "name": "Lab - More Javascript Function Problem Solving",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_04/student_labs/afternoon_lab.md"
+                },
+                {
+                  "name": "Homework - Function Problem Solving",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_04/homework"
+                }
+              ]
+            },
+            {
+              "name": "Day 5",
+              "description": "Learning about Objects and Program Design",
+              "links": [
+                {
+                  "name": "Lecture - Program Design",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_05/instructor_notes/1.%20Program%20Design.md"
+                },
+                {
+                  "name": "Lecture - Objects",
+                  "url": "https://git.generalassemb.ly/AlexMerced/intro_to_objects"
+                },
+                {
+                  "name": "Lab - Psuedocode Lab",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_05/student_labs/1_pseudocode_lab.md"
+                },
+                {
+                  "name": "Lab - Objects Lab",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_05/student_labs/2_objects_lab.md"
+                },
+                {
+                  "name": "Homework - Landscaper",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_05/homework/landscaper.md"
+                },
+                {
+                  "name": "Homework - Oscar Mockup",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_05/homework/oscar"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Week 2",
-          "description": "lorem ipsum",
+          "name": "Week 2 - To the DOM and Beyond",
+          "description": "More Javascript and learning about using Javascript on a web page with DOM Manipulation and jQuery.",
           "days": [
             {
               "name": "Day 1",
-              "description": "lorem ipsum",
+              "description": "Learning how to work with nested data",
               "links": [
                 {
-                  "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                  "name": "Lecture - Objectception",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_06/instructor_notes/1.%20Object-ception.md"
                 },
                 {
-                  "name": "Lab - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                  "name": "Lecture - Combining Data Types",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_06/instructor_notes/2.%20Combining%20Data%20Types.md"
+                },
+                {
+                  "name": "Lab - Objectception Lab",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_06/student_labs/1_object-ception_lab.md"
+                },
+                {
+                  "name": "Lab - Combining Data Types",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_06/student_labs/2_combining_datatypes_lab.md"
+                },
+                {
+                  "name": "Homework - Javascript Potpurri",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_06/homework"
                 }
               ]
             },
             {
               "name": "Day 2",
-              "description": "lorem ipsum",
+              "description": "Callbacks and Callback array methods!!!",
               "links": [
                 {
-                  "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                  "name": "Lecture - Callbacks",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_07/instructor_notes/1.%20Callbacks.md"
                 },
                 {
-                  "name": "Lab - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                  "name": "Lecture - Array Callback Methods",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_07/instructor_notes/2.%20array_methods_w_callbacks%20(optional).md"
+                },
+                {
+                  "name": "Lecture - TIPS",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_07/instructor_notes/3.%20TIPS.md"
+                },
+                {
+                  "name": "Lab - Callbacks Lab",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_07/student_labs/1_callbacks_lab.md"
+                },
+                {
+                  "name": "Lab - Combining Data Types",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_06/student_labs/2_combining_datatypes_lab.md"
+                },
+                {
+                  "name": "Homework - Callbacks Homework",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_07/homework"
+                }
+              ]
+            },
+            {
+              "name": "Day 3",
+              "description": "Today we Explore the DOM!!!",
+              "links": [
+                {
+                  "name": "Lecture - Intro to the DOM",
+                  "url": "https://git.generalassemb.ly/AlexMerced/Intro_To_DOM_Lessons/blob/master/introtodom.md"
+                },
+                {
+                  "name": "Lecture - Intro to jQuery",
+                  "url": "https://git.generalassemb.ly/AlexMerced/Intro_To_DOM_Lessons/blob/master/introtojquery.md"
+                },
+                {
+                  "name": "Lab - Javascript DOM Lab",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_08/student_labs/morning_lab.md"
+                },
+                {
+                  "name": "Lab - jQUery Lab",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_08/student_labs/afternoon_lab.md"
+                },
+                {
+                  "name": "Homework - jQUery Magic and Flowbox Mockup",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_08/homework"
+                }
+              ]
+            },
+            {
+              "name": "Day 4",
+              "description": "More jQuery and AJAX!",
+              "links": [
+                {
+                  "name": "Lecture - Forms & Events with jQUery",
+                  "url": "https://git.generalassemb.ly/AlexMerced/Intro_To_DOM_Lessons/blob/master/introtojqueryevents.md"
+                },
+                {
+                  "name": "Lecture - Using AJAX",
+                  "url": "https://git.generalassemb.ly/AlexMerced/Intro_To_DOM_Lessons/blob/master/ajax.md"
+                },
+                {
+                  "name": "Lecture - Working with JSON Files",
+                  "url": "https://git.generalassemb.ly/AlexMerced/Intro_To_DOM_Lessons/blob/master/json.md"
+                },
+                {
+                  "name": "Lab - Ajax Lab",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_11/student_labs/ajax-lab.md"
+                },
+                {
+                  "name": "Lab - Calculator Lab",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_10/student_labs/Morning.md"
+                },
+                {
+                  "name": "Homework - jQUery Lord of the Rings",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_09/homework"
+                }
+              ]
+            },
+            {
+              "name": "Day 5",
+              "description": "Web Components, Intro to Project 1",
+              "links": [
+                {
+                  "name": "Lecture - Intro to Web Components",
+                  "url": "https://git.generalassemb.ly/AlexMerced/Intro_To_DOM_Lessons/blob/master/webcomponentsintro.md"
+                },
+                {
+                  "name": "Lecture - Web Components Advanced",
+                  "url": "https://git.generalassemb.ly/AlexMerced/Intro_To_DOM_Lessons/blob/master/componentsadvanced.md"
+                },
+                {
+                  "name": "Homework - Javascript Potpurri",
+                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_06/homework"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Project Week",
+          "description": "lorem ipsum",
+          "days": [
+            {
+              "name": "Project Week",
+              "description": "Projects all week, Presentations on Friday at Noon",
+              "days": [
+                {
+                  "name": "Project Week",
+                  "description": "Projects all week, Presentations on Friday at Noon",
+                  "links": [
+                    {
+                      "name": "Project Description",
+                      "url": "https://git.generalassemb.ly/AlexMerced/lectures_labs_projects/blob/main/projects/project1.md"
+                    }
+                  ]
                 }
               ]
             }

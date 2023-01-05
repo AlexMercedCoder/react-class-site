@@ -2,10 +2,30 @@
   "navigation": {
     "bg": "#222222",
     "fg": "white",
-    "highlight": "#e40229"
+    "highlight": "#e40229",
+    "logo_height": "15px"
   },
   "app": {
     "bg": "gray",
-    "fg": "white"
+    "fg": "white",
+    "highlight": "#e40229"
+  },
+  "unit": {
+    "bg": "white",
+    "fg": "black",
+    "highlight": "gray",
+    "border": "3px solid gray"
+  },
+  "week": {
+    "bg": "white",
+    "fg": "black",
+    "highlight": "gray",
+    "border": "3px solid gray"
+  },
+  "day": {
+    "bg": "white",
+    "fg": "black",
+    "highlight": "#00AFB9",
+    "border": "3px solid gray"
   }
 }

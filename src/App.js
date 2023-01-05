@@ -11,7 +11,7 @@ function App() {
         {units.map((item, index) => {
           return (
             <Link to={`/${index}`} key={item.name}>
-              <div>{item.name}</div>
+              <AppLink>{item.name}</AppLink>
             </Link>
           );
         })}

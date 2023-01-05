@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Moo+Lah+Lah&family=Work+Sans&display=swap');
+
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: 'Work Sans', sans-serif;
+}
+
+a {
+  text-decoration: none;
 }
