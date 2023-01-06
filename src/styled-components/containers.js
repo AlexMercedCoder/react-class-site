@@ -11,10 +11,9 @@ export const NavContainer = styled.div`
   justify-content: space-between;
   align-items: center;
 
-  @media(max-width: 500px){
-      flex-direction: column;
-      margin: auto;
-
+  @media (max-width: 500px) {
+    flex-direction: column;
+    margin: auto;
   }
 `;
 
@@ -62,7 +61,7 @@ export const AppContainer = styled.div`
 
   @media (max-width: 500px) {
     width: 100%;
-    font-size: .9em;
+    font-size: 0.9em;
     margin: auto;
   }
 `;
@@ -83,20 +82,20 @@ export const AppLink = styled.div`
 // Unit
 
 export const UnitWrapper = styled.div`
-background-color: ${theme.unit.bg};
-color: ${theme.unit.fg};
-padding: 10px;
-text-align: center;
-width: 90%;
-border-radius: 8px;
-margin: 8px auto;
+  background-color: ${theme.unit.bg};
+  color: ${theme.unit.fg};
+  padding: 10px;
+  text-align: center;
+  width: 90%;
+  border-radius: 8px;
+  margin: 8px auto;
 
-@media (max-width: 500px) {
+  @media (max-width: 500px) {
     max-width: 280px;
     width: 100%;
-    font-size: .9em;
+    font-size: 0.9em;
   }
-`
+`;
 
 export const UnitContainer = styled.div`
   display: flex;
@@ -128,17 +127,17 @@ export const UnitLink = styled.div`
 // Week
 
 export const WeekWrapper = styled.div`
-background-color: ${theme.week.bg};
-color: ${theme.week.fg};
-padding: 10px;
-text-align: center;
+  background-color: ${theme.week.bg};
+  color: ${theme.week.fg};
+  padding: 10px;
+  text-align: center;
 
-@media (max-width: 500px) {
+  @media (max-width: 500px) {
     max-width: 280px;
     width: 100%;
-    font-size: .9em;
+    font-size: 0.9em;
   }
-`
+`;
 
 export const WeekContainer = styled.div`
   display: flex;
@@ -170,21 +169,21 @@ export const WeekLink = styled.div`
 // Day
 
 export const DayWrapper = styled.div`
-background-color: ${theme.day.bg};
-color: ${theme.day.fg};
-padding: 10px;
-border-radius: 8px;
-width: 60%;
-margin: auto;
-border: ${theme.day.border};
-text-align: center;
+  background-color: ${theme.day.bg};
+  color: ${theme.day.fg};
+  padding: 10px;
+  border-radius: 8px;
+  width: 60%;
+  margin: auto;
+  border: ${theme.day.border};
+  text-align: center;
 
-@media (max-width: 500px) {
+  @media (max-width: 500px) {
     max-width: 280px;
     width: 100%;
-    font-size: .9em;
+    font-size: 0.9em;
   }
-`
+`;
 
 export const DayContainer = styled.div`
   display: flex;
@@ -202,7 +201,7 @@ export const DayContainer = styled.div`
 
   @media (max-width: 500px) {
     font-size: 0.6em;
-    width: 100%
+    width: 100%;
   }
 `;
 
